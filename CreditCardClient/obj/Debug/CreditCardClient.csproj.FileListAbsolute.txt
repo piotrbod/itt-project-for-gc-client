@@ -27,3 +27,17 @@ C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-
 C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-google-code\client\itt-project-for-gc-client\CreditCardClient\bin\Debug\Newtonsoft.Json.xml
 C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-google-code\client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.csproj.App.config
 C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-google-code\client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.csprojResolveAssemblyReference.cache
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\CreditCardClient.exe.config
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.exe
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.pdb
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\CreditCardClient.exe
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\CreditCardClient.pdb
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\System.Net.Http.Extensions.dll
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\System.Net.Http.Primitives.dll
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\Newtonsoft.Json.dll
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\System.Net.Http.Extensions.xml
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\bin\Debug\System.Net.Http.Primitives.xml
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.csproj.App.config
+D:\X_500GB\szkola\10-semester-masters\software\CA1\Final_CA1\Client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.csprojResolveAssemblyReference.cache

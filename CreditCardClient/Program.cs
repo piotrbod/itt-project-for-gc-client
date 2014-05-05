@@ -133,13 +133,13 @@ namespace CreditCardClient
         {
             GetAllAsync().Wait();
 
-            AddAsync("123", 2).Wait();
-            GetAllAsync().Wait();
-            
-           //UpdateAsync("5364ec0c07fc29103ce97387", "7777779", 3).Wait();
-          //GetAllAsync().Wait();
+            //AddAsync("1234 5678 1234 5678", 1).Wait();
+            //GetAllAsync().Wait();
 
-           //DeleteAsync("5364ec0c07fc29103ce97387").Wait();
+            UpdateAsync("5367b8284fdd72003825000f", "7890 1234 7890 1234", 2).Wait();
+            GetAllAsync().Wait();
+
+           //DeleteAsync("53677427c904797da8946202").Wait();
            //GetAllAsync().Wait();
         }
     }
