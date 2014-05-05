@@ -17,7 +17,7 @@ namespace CreditCardClient
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri("http://localhost:33350/");                             // base URL for API Controller i.e. RESTFul service
+                    client.BaseAddress = new Uri("http://x00077517.cloudapp.net:33350/");                             // base URL for API Controller i.e. RESTFul service
 
                     // add an Accept header for JSON
                     client.DefaultRequestHeaders.
@@ -55,7 +55,7 @@ namespace CreditCardClient
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri("http://localhost:33350/");                             // base URL for API Controller i.e. RESTFul service
+                    client.BaseAddress = new Uri("http://x00077517.cloudapp.net:33350/");                             // base URL for API Controller i.e. RESTFul service
 
                     // add an Accept header for JSON - preference for response 
                     client.DefaultRequestHeaders.
@@ -89,7 +89,7 @@ namespace CreditCardClient
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri("http://localhost:33350//");
+                    client.BaseAddress = new Uri("http://x00077517.cloudapp.net:33350//");
 
                     CreditCardItem card = new CreditCardItem() { Number = cnumber_new, RiskLevel = rlevel_new };                                            
 
@@ -114,7 +114,7 @@ namespace CreditCardClient
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri("http://localhost:33350//");
+                    client.BaseAddress = new Uri("http://x00077517.cloudapp.net:33350//");
                                           
                     HttpResponseMessage response = await client.DeleteAsync("api/CreditCard/" + id);
                     if (!response.IsSuccessStatusCode)

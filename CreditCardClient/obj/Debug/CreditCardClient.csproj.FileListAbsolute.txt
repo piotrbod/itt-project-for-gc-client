@@ -12,3 +12,6 @@ C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient
 C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\obj\Debug\CreditCardClient.csprojResolveAssemblyReference.cache
+C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-google-code\client\itt-project-for-gc-client\CreditCardClient\bin\Debug\CreditCardClient.exe.config
+C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-google-code\client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.exe
+C:\Users\pbodziachowski.MODEVA\Desktop\masters\c#\ca\git\itt-project-for-gc-for-google-code\client\itt-project-for-gc-client\CreditCardClient\obj\Debug\CreditCardClient.pdb
