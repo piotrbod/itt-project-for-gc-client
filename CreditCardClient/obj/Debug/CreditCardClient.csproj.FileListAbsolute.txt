@@ -1,0 +1,14 @@
+c:\users\mlisowski.modeva\documents\visual studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\CreditCardClient.exe.config
+c:\users\mlisowski.modeva\documents\visual studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\CreditCardClient.exe
+c:\users\mlisowski.modeva\documents\visual studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\CreditCardClient.pdb
+c:\users\mlisowski.modeva\documents\visual studio 2013\Projects\CreditCardClient\CreditCardClient\obj\Debug\CreditCardClient.exe
+c:\users\mlisowski.modeva\documents\visual studio 2013\Projects\CreditCardClient\CreditCardClient\obj\Debug\CreditCardClient.pdb
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\obj\Debug\CreditCardClient.csproj.App.config
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mlisowski.MODEVA\Documents\Visual Studio 2013\Projects\CreditCardClient\CreditCardClient\obj\Debug\CreditCardClient.csprojResolveAssemblyReference.cache
